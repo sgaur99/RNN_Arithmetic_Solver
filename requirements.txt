@@ -1,0 +1,5 @@
+tensorflow
+termcolor
+numpy
+pandas
+jupyter
