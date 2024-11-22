@@ -25,9 +25,6 @@ The repository includes the following files and directories:
 - `add_sub_mul_RNN.ipynb`: Jupyter notebook containing the code for data preprocessing, model building, training, and evaluation.
 - `README.md`: Provides an overview of the project, setup instructions, and other useful information.
 - `requirements.txt`: List of required Python packages.
-- `train_model.py`: Script for training the RNN model.
-- `predict.py`: Script for using the trained model to make predictions on new data.
-- `utils.py`: Utility functions for data preprocessing and model evaluation.
 - `LICENSE`: License for the project.
 
 ## Requirements
