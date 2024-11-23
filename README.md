@@ -42,7 +42,7 @@ All dependencies can be installed using the `requirements.txt` file.
 1. **Clone the repository**
 
    ```sh
-   git clone https://github.com/sgaur99/RNN_Arithmetic_Solver.git
+   git clone https://github.com/sgaur99/rnn-arithmetic-solve.git
    cd RNN_Arithmetic_Solver
    ```
 
